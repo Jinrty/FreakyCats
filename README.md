@@ -7,4 +7,6 @@ Made by me and (PysiaQV/MrPop) <- one person
 
 ![alt text](ReadMeImage.png)
 
+We used Renpy for the project
+The project have visual novel part and climbing minigame part
 
